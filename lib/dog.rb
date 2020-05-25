@@ -1,1 +1,1 @@
-Dog
+class Dog
